@@ -35,4 +35,13 @@ O nome "BioTreino AI" e sua interface são de propriedade exclusiva do desenvolv
 ---
 
 ## 3. CONTATO E SUPORTE
-Para dúvidas, bugs ou suporte direto, entre em contato via WhatsApp através do link disponível no "Manual de Uso" dentro do aplicativo.
+Para dúvidas, suporte ou solicitação de exclusão de dados, entre em contato através de um dos nossos canais oficiais:
+
+| Canal | Link de Acesso |
+| :--- | :--- |
+| **WhatsApp** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+551176556932) |
+| **Telegram** | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CPdV20) |
+| **E-mail** | [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charliepv01@gmail.com) |
+
+---
+*Nota: O tempo de resposta pode variar de acordo com a demanda, mas buscamos responder em até 24 horas úteis.*
