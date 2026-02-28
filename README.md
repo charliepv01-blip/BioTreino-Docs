@@ -1,40 +1,73 @@
-# Informações Legais - BioTreino AI
+Política de Privacidade – Sistema de Academia com Assistente de IA
 
-Este documento contém a Política de Privacidade e os Termos de Uso do aplicativo **BioTreino AI**.
+1. Introdução
+Este documento descreve como o sistema de academia com assistente de inteligência artificial (IA) coleta, utiliza, armazena e protege os dados pessoais dos usuários. Nosso compromisso é garantir transparência e segurança em conformidade com a Lei Geral de Proteção de Dados (LGPD) e demais legislações aplicáveis.
 
----
+2. Dados Coletados
+O sistema poderá coletar:
+- Dados de cadastro: nome, e-mail, idade, gênero, nível de experiência, metas de treino e nutrição.  
+- Dados de saúde e bem-estar: informações nutricionais fornecidas pelo usuário, histórico de treinos, medidas corporais.  
+- Dados de interação: mensagens trocadas no chat com o assistente de IA, configurações de perfil, foco do dia/mês.  
+- Dados de mídia: fotos enviadas para a galeria e imagens utilizadas no simulador de silhueta corporal.  
+- Relatórios locais: fotos e medidas podem ser exportadas em arquivos PDF e TXT, armazenados exclusivamente no dispositivo do usuário.  
+- Dados técnicos: endereço IP, cookies, informações de dispositivo e navegação no sistema.
 
-## 1. POLÍTICA DE PRIVACIDADE
+3. Finalidade do Uso
+Os dados coletados são utilizados para:
+- Personalizar treinos e planos nutricionais.  
+- Gerar recomendações e incentivos via assistente de IA.  
+- Exibir e organizar fotos na galeria.  
+- Simular evolução corporal com base nas informações fornecidas.  
+- Criar relatórios em PDF e TXT para acompanhamento individual.  
+- Melhorar a experiência de navegação e usabilidade do sistema.  
+- Cumprir obrigações legais e regulatórias.
 
-**Última atualização:** 12 de Fevereiro de 2026
+4. Armazenamento
+- Dados de relatórios (PDF/TXT): ficam armazenados localmente no dispositivo do usuário, sem envio automático para servidores externos.  
+- Dados de perfil e interação: podem ser armazenados em servidores seguros para garantir funcionamento do sistema.  
+- O usuário tem controle sobre exportação e exclusão dos relatórios locais.
 
-O **BioTreino AI** preza pela transparência e segurança dos dados de seus usuários.
+5. Compartilhamento de Dados
+- Os dados não serão vendidos a terceiros.  
+- Poderão ser compartilhados apenas com parceiros técnicos (ex.: serviços de hospedagem, análise de desempenho) sempre sob contrato de confidencialidade.  
+- Informações sensíveis (como dados de saúde) só serão compartilhadas mediante consentimento explícito do usuário.
 
-### Coleta e Uso de Dados
-- **Autenticação:** Utilizamos o Google Firebase para login. Coletamos apenas seu nome e e-mail para identificação da conta.
-- **Dados Biométricos e Fotos:** Todas as fotos de evolução, peso, altura e medidas inseridas no "Check-in" são armazenadas **exclusivamente no dispositivo do usuário**. Não fazemos upload de suas imagens ou medidas pessoais para nossos servidores.
-- **Inteligência Artificial:** Utilizamos a API do Google Gemini para gerar sugestões de treinos e dietas. Os dados enviados para a IA são anônimos e baseados apenas no seu biotipo e objetivo físico.
+6. Direitos do Usuário
+O usuário tem direito a:
+- Solicitar acesso, correção ou exclusão de seus dados.  
+- Revogar consentimento para uso de dados sensíveis.  
+- Portabilidade dos dados, conforme previsto na LGPD.  
+- Reclamar junto à Autoridade Nacional de Proteção de Dados (ANPD) em caso de irregularidades.
 
-### Direitos do Usuário
-- **Exportação:** Você pode exportar seu histórico completo via PDF/Texto na tela de Ajustes.
-- **Exclusão:** Você pode solicitar a exclusão da sua conta de autenticação a qualquer momento através do suporte.
+7. Segurança
+- Utilizamos criptografia e protocolos de segurança para proteger dados pessoais.  
+- O acesso às informações é restrito a profissionais autorizados.  
+- Relatórios locais (PDF/TXT) ficam sob responsabilidade do usuário, sendo armazenados apenas em seu dispositivo.  
+- Monitoramos continuamente o sistema para prevenir acessos não autorizados.
 
----
+8. Retenção dos Dados
+- Os dados serão mantidos enquanto o usuário tiver conta ativa.  
+- Após exclusão da conta, os dados serão apagados ou anonimizados, salvo quando houver obrigação legal de retenção.  
+- Relatórios locais permanecem no dispositivo até que o próprio usuário os exclua.
 
-## 2. TERMOS DE USO
+9. Uso do Assistente de IA
+- O chat e as interações com o assistente de IA são armazenados para melhorar recomendações e incentivar o usuário.  
+- O assistente não substitui orientação médica ou nutricional profissional.  
+- O usuário deve sempre consultar especialistas para decisões de saúde.
 
-### Isenção de Responsabilidade Médica (IMPORTANTE)
-O BioTreino AI é uma ferramenta de auxílio baseada em Inteligência Artificial. 
-1. **Não substituímos profissionais:** As sugestões de treinos e dietas não substituem a orientação de um médico, nutricionista ou educador físico.
-2. **Risco do Usuário:** Antes de iniciar qualquer atividade física sugerida pelo app, o usuário deve consultar um profissional de saúde. O desenvolvedor não se responsabiliza por lesões ou danos decorrentes do uso das informações fornecidas.
-3. **Uso de IA:** O usuário está ciente de que as respostas são geradas de forma automatizada e podem conter imprecisões.
+10. Manual de Instruções e Navegação
+- O sistema disponibiliza guia de uso com explicações sobre cada funcionalidade:  
+  - Configuração de perfil.  
+  - Definição de metas de treino e nutrição.  
+  - Uso da galeria e simulador de silhueta.  
+  - Exportação de relatórios PDF/TXT.  
+  - Interação com o assistente de IA.  
+- O manual pode ser acessado dentro do aplicativo ou site.
 
-### Propriedade Intelectual
-O nome "BioTreino AI" e sua interface são de propriedade exclusiva do desenvolvedor. O uso comercial do conteúdo gerado sem autorização é proibido.
+11. Alterações na Política
+Esta política poderá ser atualizada periodicamente. O usuário será informado sobre mudanças relevantes por meio de notificações no sistema.
 
----
-
-## 3. CONTATO E SUPORTE
+12. Contato
 Para dúvidas, suporte ou solicitação de exclusão de dados, entre em contato através de um dos nossos canais oficiais:
 
 | Canal | Link de Acesso |
