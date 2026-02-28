@@ -67,8 +67,7 @@ O usuário tem direito a:
 11. Alterações na Política
 Esta política poderá ser atualizada periodicamente. O usuário será informado sobre mudanças relevantes por meio de notificações no sistema.
 
-12. Contato
-Para dúvidas, suporte ou solicitação de exclusão de dados, entre em contato através de um dos nossos canais oficiais:
+12. Contato para dúvidas, suporte ou solicitação de exclusão de dados, entre em contato através de um dos nossos canais oficiais:
 
 | Canal | Link de Acesso |
 | :--- | :--- |
